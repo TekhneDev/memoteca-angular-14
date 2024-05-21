@@ -12,7 +12,7 @@ export class ListarPensamentoComponent implements OnInit {
       conteudo: 'Passo informações para o componente filho',
       autoria: 'Componente pai',
       modelo: 'modelo3'
-    }
+    },
     {
       conteudo: 'Minha propriedade é decorada com @Input()',
       autoria: 'Componente filho',
